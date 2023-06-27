@@ -1,1 +1,1 @@
-readme inside directory
+readme
